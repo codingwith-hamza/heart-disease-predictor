@@ -1,6 +1,6 @@
 # Heart Disease Prediction System
 
-**Live demo (Streamlit):** _<ADD-YOUR-STREAMLIT-APP-URL-HERE>_
+**Live demo (Streamlit):** _https://codingwith-hamza-heart-disease-predictor-app-n53wqy.streamlit.app/_
 
 An end-to-end Machine Learning system that predicts whether a patient has heart
 disease from **4 clinical attributes**, built for **AIC354 Machine Learning
